@@ -1,0 +1,1 @@
+<?php $filesInfo = ["/local/templates/main/assets/css/style.css" => "171015676226549",]; ?>

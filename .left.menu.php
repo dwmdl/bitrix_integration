@@ -1,0 +1,53 @@
+<?
+$aMenuLinks = Array(
+	Array(
+		"В начало", 
+		"#hero", 
+		Array(), 
+		Array(), 
+		"" 
+	),
+	Array(
+		"Услуги", 
+		"#services", 
+		Array(), 
+		Array(), 
+		"" 
+	),
+	Array(
+		"Интерьер", 
+		"#portfolio", 
+		Array(), 
+		Array(), 
+		"" 
+	),
+	Array(
+		"Этапы ремонта", 
+		"#about", 
+		Array(), 
+		Array(), 
+		"" 
+	),
+	Array(
+		"Отзывы", 
+		"#team", 
+		Array(), 
+		Array(), 
+		"" 
+	),
+	Array(
+		"Контакты", 
+		"#contact", 
+		Array(), 
+		Array(), 
+		"" 
+	),
+	Array(
+		"тест", 
+		"/test.php", 
+		Array(), 
+		Array(), 
+		"" 
+	)
+);
+?>
