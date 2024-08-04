@@ -6,8 +6,6 @@ $APPLICATION->SetTitle("тест");
 
 ?>
 
-    <!-- TODO: Сделать тип инфоблока  forms и в нем инфб "оставить заявку". Туда добавлять элементы и отправлять формы -->
-
     <div class="row portfolio-container aos-init aos-animate" data-aos="fade-up" data-aos-delay="150"
          style="position: relative; height: 1277.52px;">
         <?php
